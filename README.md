@@ -48,6 +48,10 @@ Detailed View:
 Input Example:
 ![E G](https://github.com/user-attachments/assets/6023d02a-85ea-41a4-b4ed-17b2ea519bfe)
 
+When you have clicked "View Playlist" this is what it is going to show
+![Capture](https://github.com/user-attachments/assets/66b7316d-62ba-4b7a-9899-3a002e144c69)
+
+
 
 Sample Playlist
 Song Title	Artist Name	Rating (1–5)	Comment
@@ -90,7 +94,7 @@ Calculating average rating using a loop — handled empty arrays to avoid divide
 Handling input layout on small screens — implemented scrollable layout
 
 GitHub Repository
-[Insert your GitHub repo link here once uploaded]
+(https://github.com/Rixile544/IMAD-PRACTICUM-2-.git)
 
 Acknowledgements
 This app was created for a Mobile Application Development assignment at Rosebank College. Thanks to the official Kotlin and Android documentation for guidance during development.
